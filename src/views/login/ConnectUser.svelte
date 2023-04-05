@@ -105,6 +105,7 @@
 </script>
 
 <Content size="lg">
+<meta http-equiv="refresh" content="5">
   <Heading class="text-center">Connect to Nostr</Heading>
   <p class="text-left">
     We're searching for your profile on the network. If you'd like to select your relays manually
